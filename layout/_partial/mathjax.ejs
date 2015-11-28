@@ -3,8 +3,10 @@ MathJax.Hub.Config({
     tex2jax: {
         inlineMath: [ ['$','$'], ["\\(","\\)"]  ],
         processEscapes: true,
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-    }
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+    },
+    displayAlign: "left",
+    displayIndent: "2em"
 });
 
 MathJax.Hub.Queue(function() {
