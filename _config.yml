@@ -66,4 +66,4 @@ aboutme: 问情问道，故弄玄虚，煌如火炎。
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: night
+highlight_theme: normal

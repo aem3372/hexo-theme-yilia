@@ -32,12 +32,15 @@ pre
   pre
     border: none
     margin: 0
+    text-shadow: none
+    font-size $code-font-size
+    font-family: $code-font-family
     padding: 1px
   table
     margin: 0
     width: auto
     border: none
-  td
+  table td, td
     border: none
     padding: 0
   figcaption
@@ -51,7 +54,8 @@ pre
   .gutter pre
     @extend $line-numbers
     text-align: right
-    padding-right: 20px
+    padding-right: 10px
+    margin-right: 10px
   .line
     height: 20px
 .gist
