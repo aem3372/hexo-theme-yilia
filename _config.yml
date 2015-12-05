@@ -6,10 +6,10 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/aem3372"
+  weibo: "http://weibo.com/1786036754/profile?topnav=1&wvr=6"
+  #rss: "#"
+  #zhihu: "#"
   #douban: "#"
   #mail: "#"
   #facebook: "#"
